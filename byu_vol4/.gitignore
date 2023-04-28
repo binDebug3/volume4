@@ -1,0 +1,88 @@
+
+# Lab data files --------------------------------------------------------------
+
+Animation/orbits.npy
+Animation/vibration.npz.gz
+AnisotropicDiffusion/balloon.jpg
+AnisotropicDiffusion/balloons_color.jpg
+SIR/new_york_cases.npy
+TotalVariation/balloons_color.jpg
+
+# General Files ---------------------------------------------------------------
+
+# Extra Python files.
+__init__.py
+__main__.py
+*.py[cdfo]
+__pycache__/
+.ipynb_checkpoints/
+
+# Latex temporary files
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.nlo
+*.out
+*.toc
+*.fdb_latexmk
+*.pdfsync
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.fls
+*.pdf
+
+# OS generated files
+.DS_Store
+
+# Backup files
+*~
+*.backup
+*.bak
+*.tmp
+*.temp
+*.sav
+
+# C compiled files, extensions
+*.dll
+*.o
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Unit test / coverage reports
+.coverage
+.tox
+.cache/
+.pytest_cache/
+htmlcov/
+
+# Miscellaneous
+build/
+faces94/
+nyc_*.json
+*.mod
