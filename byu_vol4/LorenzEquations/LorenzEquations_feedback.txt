@@ -1,0 +1,26 @@
+10/26/23 21:52
+
+Problem 1 (7 points):
+Score += 7
+
+Problem 2 (7 points):
+Score += 7
+
+Problem 3 (11 points):
+Score += 11
+
+Problem 4 (11 points):
+Score += 11
+
+Problem 5 (9 points):
+Score += 9
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
